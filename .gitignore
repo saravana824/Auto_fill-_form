@@ -1,0 +1,21 @@
+# Ignore environment and virtual env files
+.env
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Node modules (if using React inside same project)
+node_modules/
+dist/
+build/
+
+# VSCode settings
+.vscode/
